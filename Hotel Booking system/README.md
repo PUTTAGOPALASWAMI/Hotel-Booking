@@ -1,4 +1,4 @@
-# Grandeur Hotel - Luxury Hotel Booking System
+# Hotel - Luxury Hotel Booking System
 
 A modern, responsive hotel booking web application built with React, TypeScript, and Tailwind CSS.
 
